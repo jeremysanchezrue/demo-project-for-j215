@@ -24,3 +24,47 @@ pop-up in the story. Text before it and after it flows around the media, so writ
 
 &nbsp;
 
+```
+
+embed: image
+source: 01.jpg
+alt: Commuters waiting on a crowded platform
+caption: Rush hour at 19th Street.
+credit: Photo by Jane Doe
+size: full
+```
+
+&nbsp;
+
+pop-up in the story. Text before it and after it flows around the media, so write your paragraphs, drop in a code block wherever an embed belongs, and keep writing. The README lists every kind of embed and its options, and the demo story shows them all in action.
+
+&nbsp;
+
+```
+
+embed: image
+source: 03.jpg
+alt: A typewriter sitting on a desk.
+caption: This is a caption that people will actually see on the website. It's an image of a typewriter sitting on a desk. 
+credit: Photo by Jane Doe
+size: text
+
+```
+
+pop-up in the story. Text before it and after it flows around the media, so write your paragraphs, drop in a code block wherever an embed belongs, and keep writing. The README lists every kind of embed and its options, and the demo story shows them all in action.
+
+&nbsp;
+
+```
+
+embed: video
+source: 02.mp4
+caption: The doors close on a departing train.
+credit: Video by Jane Doe
+
+```
+
+&nbsp;
+
+&nbsp;
+
